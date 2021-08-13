@@ -1,3 +1,4 @@
 # test
-First test\n
+First test
+
 Success
